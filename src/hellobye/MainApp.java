@@ -3,5 +3,6 @@ package hellobye;
 public class MainApp {
 	public static void main(String[] args) {
 		System.out.println("hello bye");
+		System.out.println("hello bye 2");
 	}
 }
